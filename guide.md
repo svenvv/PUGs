@@ -25,16 +25,16 @@ If you see anyone breaking any rules, you can report this to us by contacting a 
 
 • __**TYPES OF PUGs:**__
 
-○ __Reverse Beginner PUGs:__
-These PUGs are open to all Master+ players and are spectated by Plat- players, this gives an opportunity for lower SR players to watch high SR players and hopefully learn stuff about the game.
+○__Mixed or Regular PUGs:__
+These PUGs are open to all players of all SR, players are sorted first by region and later by SR.
 ○ __Tryhard PUGs:__
-These PUGs are open to all players that are Diamond+ and are great for refining your skills on heroes you play a lot of.
-○__Mixed PUGs:__
-These PUGs are open to all players of all SR and is a great tool to learn heroes you may not be confident on.
+These are open to all players that are Diamond and above.
 ○__Beginner PUGs:__
-These PUGs are open to all players Gold- and each team is spectated by a coach that will give you advice after every game. Coaches are also voluntary so understand that they have lives as well.
+These are open to all Gold and below players, a hard cap of a season high of 2650 is employed. Each team is spectated by a coach that will give advice to the after every game. Note that coaches are volunteers and give feedback to the entire team so do not expect them to only coach.
+○ __Reverse Beginner PUGs:__
+These are open to all Master and above players and can be spectated by Platinum and below players. It gives an opportunity for lower SR players to watch high SR games and ask some questions afterwards to help improve their knowledge of the game.
 ○ __Unofficial PUGs:__
-These PUGs are not scheduled and you are allowed to start them at any time. Don't be afraid to talk in chat or hang out in voice and look for people.
+These are PUGs that are organized spontanously by members of the community, you are free to start your own games at any time, don't be afraid to talk in chat or hangout in voice to look for people to have some fun with. Note that the rules in these PUGs still apply.
 
 • __**How to participate**__
 
