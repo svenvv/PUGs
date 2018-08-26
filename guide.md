@@ -5,21 +5,23 @@ __**INTRO:**__
 PUGs (aka Pick-Up-Games) are games where a group of people come together to play the game competitively. These games are done using the competitive rule-set in custom games to help players practice and have fun without the risk of ones SR. There are many different PUGs for different types of players.
 
 • __**Expectations/Rules:**__
-  ○ All players must follow the rules previously stated in #info.
-  ○ PUGs are a privilege, not a right. We don't have to run PUGs so don't complain about stuff like that. Be aware that all the staff is voluntarily doing this out of our day.
-  ○ You must be playing on a placed account. (10 games of comp aren't that bad so don't whine)
-    - Your account must be Public to confirm it is placed. You will not be allowed to get picked if your profile is Private/Friends Only.
-  ○ If you are participating in PUGs you are willing to behave well. Not doing so is a quick way to a mute/ban.
-    - Watching your language, swearing is allowed but slurs are not.
-    - Communicating; No one wants to hear you scream into your mic.
-    - Be a team player. Forcing your team to play around you isn't what we are about.
-    - Being annoyed is ok. But being tilted is not. These are PUGs, not the ladder, there is no reason to be getting upset. These games are meant to be fun.
-    - Not to leave games, if you have an unstable internet please try to not play PUGs until you have it figured it out.
-  ○ Smurfing is not allowed in any way, PUGs are restricted based on SR to make sure games are fair and fun. Also, why do you care that you pub stomped some Golds? It only makes you look like a dick.
-  ○ Only @ one staff, not the role
+  ○ All players must follow the discord server rules previously stated in #info.
+  ○ PUGs are a privilege, not a right. We don't have to run PUGs, be aware that all staff are doing this voluntarily for the community.
+  ○ You must be playing on a recently placed account, up to 3 seasons ago, that accurately reflects your skill, no exceptions.
+  ○ For official PUG events you must show up with your main account. For unofficial ones this rule is loosened somewhat for those that have multiple accounts they wish to level.
+  ○ Your profile must be public to confirm the previous rule and to estimate your skill and hero pool. You will not be allowed to play until it is public.
+  ○ Smurfing is not allowed in any way. PUGs are restricted based on SR to make sure the games are fair and fun. Smurfing in SR restricted PUG events WILL get you perma-banned.
+  ○ If you are participating in PUGs you are expected to behave well, not doing so can result in mutes, suspensions or a ban:
+    - Watch your language; swearing is allowed but slurs of any kind are not.
+    - Communication is very important and encourged; we have dedicated voice channels on Discord for PUGs, do not scream into your mic however and ensure your mic is setup correctly.
+    - Be a team player; picking "meme-heroes" or forcing your team to play around you isn't what PUGs are about. If you want to play attack Torbjorn on Assault there is Quick Play.
+    - Being annoyed at times is okay, being tilted is not. PUGs are ment to be a way to improve yourself and have fun without the risk of losing SR.
+    - Do not leave games in progress or rage quit. If you have an unstable internet please to refrain from playing PUGs until you have it fixed. Remember there are 11 other players playing with you.
 
-If you see anyone breaking any rules, report this to any @PUG STAFF or use the `!report [Discord-tag] [reason]` command so we can take care of the situation.
-Any person who fails to meet these criteria is subject to warnings, a suspension or ban from official PUGs.
+  ○ When in need of help or when you have a question feel free to ping (@) an online member of PUG staff, do not ping the entire role as this will result in :jaynePing:
+
+Failure to adhere to these rules can results in warnings, suspensions or a ban from all PUGs or even the server.
+If you see anyone breaking any rules, you can report this to us by contacting a member of PUG staff or by using the `!report [Discord-tag] [reason]` so we are notified of the situation and can take action.
 
 • __**TYPES OF PUGs:**__
 
