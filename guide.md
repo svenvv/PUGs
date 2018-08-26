@@ -54,15 +54,15 @@ These are the custom games settings which we use:
   - 12 Spectators
 
 •__**SCHEDULE:**__
-This list is of official times when PUGs are being held, check back here if it updates are we are constantly looking to improve it.
+This is the list of offical PUG events and times:
 
 ```css
-[MON] 2 pm PDT, 5 pm EDT, 11 pm CEST (Reverse beginner PUGs)
-[WED] 5 pm PDT, 8 pm EDT, 2 am CEST (TryHard; Diamond+ only)
-[FRI] 11 am PDT, 2 pm EDT, 8 pm CEST (European)
-[SAT] 1 pm PDT, 4 pm EDT, 10 pm CEST
-[SUN] 1 pm PDT, 4 pm EDT, 10 pm CEST (Beginner PUGs)
-[SUN] 3 pm PDT, 6 pm EDT, 12 am CEST (Regular PUGs)
+[MON] 2 pm PDT, 5 pm EDT, 23.00 CEST (Reverse Beginner)
+[WED] 5 pm PDT, 8 pm EDT, 2.00 CEST (TryHard; Diamond and above)
+[FRI] 11 am PDT, 2 pm EDT, 20.00 CEST (European)
+[SAT] 1 pm PDT, 4 pm EDT, 22.00 CEST (Regular)
+[SUN] 1 pm PDT, 4 pm EDT, 22.00 CEST (Beginner; Gold (peak up to 2650) and below )
+[SUN] 3 pm PDT, 6 pm EDT, 24.00 CEST (Regular)
 ```
 
 • __**Roles:**__
