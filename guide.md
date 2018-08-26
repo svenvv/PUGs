@@ -38,18 +38,19 @@ These are PUGs that are organized spontanously by members of the community, you 
 
 • __**How to participate**__
 
-For every official PUG you will be notified when they happen. Jump in the PUG Hangout voice channel and there should be a @PUG STAFF member around to point you in the right direction. If there is no staff available, check the #pug-announcements channel to see if there are directions for you. Otherwise, wait for someone to come to pick you up or tag a @PUG STAFF member for further directions.
+For every official PUG there will be an announcement posted in #pug-announcements. Jump in the voice channel mentioned in the announcements where a memeber of staff will help you get started. If there is no staff available, check the #pug-announcements channel to see if additional directions have been posted like how the current lobbies have been setup. Otherwise, wait for someone to come pick you up or talk to a member of staff in #pug-general.
 
-You can use the #put-your-bnet-here-please channel to post your battletag so the lobby host can invite you.
-Preferred format:
+Use the #put-your-bnet-here-please channel to post your battletag so the lobby host can invite you. The preferred format is:
 `<BATTLE TAG> for <VOICE CHANNEL>`
-ex. `Lunar#11279 NA High`
+    e.g.: `Jayne#12340 NA High`
 
-Sometimes not enough staff members are available to host your lobby. In that case one of the players will have to set up a lobby. Please only volunteer to set up a lobby if you are familiar with changing custom game settings.
+Sometimes there might not be enough staff members available to host a lobby; in that case one of the players will be asked to setup the lobby. Please only volunteer to set up a lobby if you are familiar with changing custom game settings.
 
 ○ __Lobby Rules:__
+These are the custom games settings which we use:
   - Competitive Rule Set
-  - Pause of disconnect
+  - Best of 3 on Koth (King of the Hill)
+  - Pause on disconnect
   - 12 Spectators
 
 •__**SCHEDULE:**__
