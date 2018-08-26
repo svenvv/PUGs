@@ -116,3 +116,9 @@ Alternatively, we sometimes use the following method which spreads out the respo
 ```
 
 As you can see the advantage of being a Captain is that you are guaranteed to play and to pick a map of your choosing.
+
+
+
+Made it to the end? Thank you :jaybeBless:! Now go out there and join some PUGs, we could always use more heroes.
+
+# TODO; add in smurfing definition, using an account which does not accurately reflects your skill;
