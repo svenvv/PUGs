@@ -66,7 +66,7 @@ This is the list of offical PUG events and times:
 ```
 
 • __**Roles:**__
-To make picking teams easier for captains, you are required to change your in-game player icon to match what you are going to be playing for that game. This is the list of icons/meaning.
+To make picking teams easier we have a role-icon system. You are required to change your in-game player icon to match what you are intending to play or wish to be playing for that game.
 - :Shanghai Dragons: = DPS
 - :Houston Outlaws: = Tank
 - :Florida Mayhem: = Support
@@ -75,10 +75,11 @@ To make picking teams easier for captains, you are required to change your in-ga
 
 • __**Picking Teams:**__
 ○ __Rules:__
-  - You are not allowed to be picked if you join mid draft.
-  - If you are not picked in a lobby that has 16- players and is not a Tryhard Lobby you must be picked next game (Does not apply if you join mid draft)
+- Players that are not picked in a lobby that has 16 players or less are considered "must-picks" for the next game.
+  - This does not apply to official TryHard lobbies due to balance issues.
+- Players that join mid draft are not pickable and are not considered to be "must-picks" for the next game.
 
-Before a match can start, teams need to be drafted and a map needs to be chosen. This process is done by picking two Captains (team leaders) first. If there are no volunteers for captains the lobby host will pick two players at will. Team Captains are responsible for assembling balanced teams and picking a map. The picking process during official PUGs happens as follows:
+Before a match can start, teams need to be drafted and a map needs to be chosen. This process is done by picking two Team Captains first. If there are no volunteers for captains the lobby host will pick two players at will. Team Captains are responsible for assembling balanced teams and picking a map. The picking process during official PUGs is as follows:
 
 ```css
 [Blue Captain] Picks one player
@@ -93,3 +94,25 @@ Before a match can start, teams need to be drafted and a map needs to be chosen.
 [Blue Captain] Picks two maps from the chosen map type
 [Red Captain] Picks a map from the two chosen options
 ```
+
+Alternatively, we sometimes use the following method which spreads out the responsibility of picking team members:
+
+```css
+[Blue Captain] Picks one player
+[Red Captain] Picks one player
+[Previous Choosen Red Player] Picks one player
+[Previous Choosen Blue Player] Picks one player
+[Previous Choosen Blue Player] Picks one player
+[Previous Choosen Red Player] Picks one player
+[Previous Choosen Red Player] Picks one player
+[Previous Choosen Blue Player] Picks one player
+[Previous Choosen Blue Player] Picks one player
+[Previous Choosen Red Player] Picks one player
+***
+[Blue Captain] Bans a map type (Assault, Control, Escort, Hybrid)
+[Red Captain] Picks a map type that was not banned
+[Blue Captain] Picks two maps from the chosen map type
+[Red Captain] Picks a map from the two chosen options
+```
+
+As you can see the advantage of being a Captain is that you are guaranteed to play and to pick a map of your choosing.
