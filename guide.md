@@ -30,7 +30,7 @@ These PUGs are open to all players of all SR, players are sorted first by region
 • __Tryhard PUGs__
 These are open to all players that are Diamond and above.
 • __Beginner PUGs__
-These are open to all Gold and below players, a hard cap of a season high of 2650 is employed. Each team is spectated by a coach that will give advice to the after every game. Note that coaches are volunteers and give feedback to the entire team so do not expect them to only coach.
+These are open to all Gold and below players, a hard cap of a season high of 2650 is employed. You must be placed either the current season or last season of competitive. Each team is spectated by a coach that will give advice to the after every game. Note that coaches are volunteers and give feedback to the entire team so do not expect them to only coach you.
 • __Reverse Beginner PUGs__
 These are open to all Master and above players and can be spectated by Platinum and below players. It gives an opportunity for lower SR players to watch high SR games and ask some questions afterwards to help improve their knowledge of the game.
 • __Unofficial PUGs__
@@ -51,6 +51,7 @@ These are the custom games settings which we use:
   - Competitive rule set
   - Best of 3 on Koth (King of the Hill)
   - Pause on disconnect
+  - Skins disabled
   - 12 Spectators
 
 
@@ -73,7 +74,8 @@ Before a match can start, teams need to be drafted and a map needs to be chosen.
 ○ __Roles__
 To make picking teams easier we have a role-icon system. You are required to change your in-game player icon to match what you are intending to play or wish to be playing for that game.
 - :Shanghai Dragons: = DPS
-- :Houston Outlaws: = Tank
+- :LosAngelesGladiators: = Main Tank
+- :Houston Outlaws: = Tank in general
 - :Florida Mayhem: = Support
 - :London Spitfire: = Flex
 - :Overwatch Logo: = AFK
@@ -86,22 +88,27 @@ To make picking teams easier we have a role-icon system. You are required to cha
 The picking process during official PUGs is as follows:
 
 ```css
+[Blue Captain] Bans a map type (Assault, Control, Escort, Hybrid)
+[Red Captain] Picks a map type that was not banned
+[Blue Captain] Picks two maps from the chosen map type
+[Red Captain] Picks a map from the two chosen options
+***
 [Blue Captain] Picks one player
 [Red Captain] Picks two players
 [Blue Captain] Picks two players
 [Red Captain] Picks two players
 [Blue Captain] Picks two players
 [Red Captain] Picks one player
-***
-[Blue Captain] Bans a map type (Assault, Control, Escort, Hybrid)
-[Red Captain] Picks a map type that was not banned
-[Blue Captain] Picks two maps from the chosen map type
-[Red Captain] Picks a map from the two chosen options
 ```
 
 Alternatively, we sometimes use the following method which spreads out the responsibility of picking team members:
 
 ```css
+[Blue Captain] Bans a map type (Assault, Control, Escort, Hybrid)
+[Red Captain] Picks a map type that was not banned
+[Blue Captain] Picks two maps from the chosen map type
+[Red Captain] Picks a map from the two chosen options
+***
 [Blue Captain] Picks one player
 [Red Captain] Picks one player
 [Previous Choosen Red Player] Picks one player
@@ -112,15 +119,8 @@ Alternatively, we sometimes use the following method which spreads out the respo
 [Previous Choosen Blue Player] Picks one player
 [Previous Choosen Blue Player] Picks one player
 [Previous Choosen Red Player] Picks one player
-***
-[Blue Captain] Bans a map type (Assault, Control, Escort, Hybrid)
-[Red Captain] Picks a map type that was not banned
-[Blue Captain] Picks two maps from the chosen map type
-[Red Captain] Picks a map from the two chosen options
 ```
 
 As you can see the advantage of being a Captain is that you are guaranteed to play and to pick a map of your choosing.
-
-
 
 Made it to the end? Thank you :jayneBless:! Now go out there and join some PUGs, we could always use more heroes.
